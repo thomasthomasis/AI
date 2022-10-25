@@ -3,6 +3,7 @@ Assignments
 Information Retrieval
 
 Machine Learning
+Assignment 2 (18/11/22)
 
 Software Engineering 
 Assignment One - (16/09/22)
