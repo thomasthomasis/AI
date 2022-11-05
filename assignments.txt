@@ -3,10 +3,9 @@ Assignments
 Information Retrieval
 
 Machine Learning
-Assignment 2 (18/11/22)
+Assignment Two - (18/11/22) (started)
 
 Software Engineering 
-Assignment One - (16/09/22)
 Assignment Two - (13/11/22)
 Assignment Three - (25/11/22)
 Assignment Four - (18/11/22)
@@ -14,7 +13,7 @@ Assignment Four - (18/11/22)
 Advanced Professional Skills
 
 Graphics and Image Processing
-Assignment One - (25/11/22)
+Assignment One - (25/11/22) (started)
 
 Final Year Project
-Project Definition Document - (5/11/22)
+Project Definition Document - (11/11/22) (started)
